@@ -1,8 +1,3 @@
 
 
-### Hi there 👋
-<span style="background-color:blue">
-  
-  ![](https://media.giphy.com/media/8cdBgACkApvt6/giphy.gif)
-
-</span>
+### Hi there 👋 ![](https://media.giphy.com/media/xUA7aW1ddSxtVT5zzi/giphy.gif)
