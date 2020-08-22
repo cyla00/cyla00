@@ -1,1 +1,1 @@
-<img src="https://s7.gifyu.com/images/giffi.gif" width="300" height="300">
+<img src="https://s7.gifyu.com/images/giffi.gif" width="120" height="120">
