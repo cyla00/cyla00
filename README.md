@@ -1,7 +1,7 @@
 <p align="center">
   <b>CONTACT</b><br><br>
-  <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a> 
-  <a href="https://discord.gg/JPZc3Bb"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a>&nbsp
+  <a href="https://discord.gg/JPZc3Bb"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>&nbsp
   <a href=""><img src="https://i.ibb.co/0Y5brrk/mail.png" width="50" height="50"></a>
 </p>
 
