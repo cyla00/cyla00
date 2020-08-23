@@ -7,7 +7,7 @@
 
 
 ## **Used Technologies:** 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=centerme&username=cyla00&layout=compact&bg_color=1c201c&title_color=80ffd4&text_color=d0e5d7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=centerme/username=cyla00&layout=compact&bg_color=1c201c&title_color=80ffd4&text_color=d0e5d7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
