@@ -28,4 +28,6 @@
   <a href="#"><img src="https://i.ibb.co/5rJpNPm/blockchain.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/RBrMMp0/bitcoin.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/pzvDXtj/monero.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/HxvfwVN/telegram.png" width="50" height="50"></a>
 </p>
