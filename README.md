@@ -1,3 +1,8 @@
+<p align="center">
+  <b>TECHNOLOGIES OF INTEREST:</b><br>
+  <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a> 
+</p>
+
 <p align="center" width="100%">
   <img src="https://media.giphy.com/media/Y3RpfxT7T7QU8/giphy.gif" />
 </p>
