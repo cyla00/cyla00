@@ -13,9 +13,5 @@
 
 <p align="center" style="text-align: center;">
   <center><h2>Used Technologies:</h2></center><br>
-  <img src="" width="64" height="64">|
-  <img src="" width="64" height="64">|
-  <img src="" width="64" height="64">|
-  <img src="" width="64" height="64">|
-  <img src="" width="64" height="64">
+  <img src="" width="64" height="64"><img src="" width="64" height="64">
 </p>
