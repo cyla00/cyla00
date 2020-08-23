@@ -14,7 +14,7 @@
   <a href="#"><img src="https://i.ibb.co/TYnGWXs/css.png" width="50" height="50"></a> 
   <a href="#"><img src="https://i.ibb.co/Z878Y4M/mysql.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/KsJjW2c/php.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/XFS62M0/javascript.png" width="50" height="504"></a>
+  <a href="#"><img src="https://i.ibb.co/XFS62M0/javascript.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/r0GxY4v/react.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/pr6cZJQ/nodejs.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/7RMbc85/python.png" width="50" height="50"></a>  
