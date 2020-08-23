@@ -11,6 +11,15 @@
 <p align="center">
   <b>TECHNOLOGIES OF INTEREST:</b><br>
   <a href="#"><img src="https://i.ibb.co/F0txkg5/html-5.png" width="64" height="64"></a> 
-  <a href="#"><img src="" width="64" height="64"></a> 
-  <a href="#"><img src="" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/TYnGWXs/css.png" width="64" height="64"></a> 
+  <a href="#"><img src="https://i.ibb.co/Z878Y4M/mysql.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/KsJjW2c/php.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/XFS62M0/javascript.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/r0GxY4v/react.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/pr6cZJQ/nodejs.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/7RMbc85/python.png" width="64" height="64"></a>  
+  <a href="#"><img src="https://i.ibb.co/vkp93vJ/code.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/5rJpNPm/blockchain.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/RBrMMp0/bitcoin.png" width="64" height="64"></a>
+  <a href="#"><img src="https://i.ibb.co/pzvDXtj/monero.png" width="64" height="64"></a>
 </p>
