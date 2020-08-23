@@ -1,5 +1,5 @@
 <p align="center">
-  <b>TECHNOLOGIES OF INTEREST:</b><br>
+  <b>CONTACT</b><br>
   <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a> 
 </p>
 
