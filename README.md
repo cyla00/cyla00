@@ -9,7 +9,7 @@
 </p>
 
 
-
+<div style="text-align:center"><h2>Used Technologies:</h2></div>
 
 <p align="center" style="text-align: center;">
   <center><h2>Used Technologies:</h2></center><br>
