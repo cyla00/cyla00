@@ -1,6 +1,7 @@
 <p align="center">
   <b>CONTACT</b><br>
   <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a> 
+  <a href="https://www.discord.com/seroktika#7541/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a>
 </p>
 
 <p align="center" width="100%">
