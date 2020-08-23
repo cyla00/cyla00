@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>USED TECHNOLOGIES:</b><br>
-  <a href="#"><img src="" width="64" height="64"></a> |
-  <a href="#"><img src="" width="64" height="64"></a> |
+  <a href="#"><img src="" width="64" height="64"></a> 
+  <a href="#"><img src="" width="64" height="64"></a> 
   <a href="#"><img src="" width="64" height="64"></a>
 </p>
