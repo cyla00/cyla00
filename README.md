@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/kDNg713/New-Project-1.png" width="100%">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cyla00)](https://github.com/anuraghazra/github-readme-stats)
