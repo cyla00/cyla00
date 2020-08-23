@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b><h4>TECHNOLOGIES OF INTEREST:</h4></b><br><br>
+  <b>TECHNOLOGIES OF INTEREST</b><br><br>
   <a href="#"><img src="https://i.ibb.co/F0txkg5/html-5.png" width="50" height="50"></a> 
   <a href="#"><img src="https://i.ibb.co/TYnGWXs/css.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/Z878Y4M/mysql.png" width="50" height="50"></a>
