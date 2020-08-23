@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <b>USED TECHNOLOGIES:</b><br>
-  <a href="#"><img src="" width="64" height="64"></a> 
+  <b>TECHNOLOGIES OF INTEREST:</b><br>
+  <a href="#"><img src="https://i.ibb.co/F0txkg5/html-5.png" width="64" height="64"></a> 
   <a href="#"><img src="" width="64" height="64"></a> 
   <a href="#"><img src="" width="64" height="64"></a>
 </p>
