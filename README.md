@@ -9,9 +9,6 @@
 </p>
 
 
-<div style="text-align:center"><h2>Used Technologies:</h2></div>
-
 <p align="center" style="text-align: center;">
-  <center><h2>Used Technologies:</h2></center><br>
-  <img src="" width="64" height="64"><img src="" width="64" height="64">
+  <h2>Used Technologies:</h2>
 </p>
