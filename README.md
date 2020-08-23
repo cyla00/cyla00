@@ -1,5 +1,5 @@
 <p align="center">
-  <b>CONTACT</b><br>
+  <b>CONTACT</b><br><br>
   <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a> 
   <a href="https://discord.gg/JPZc3Bb"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>
 </p>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>TECHNOLOGIES OF INTEREST:</b><br>
+  <b>TECHNOLOGIES OF INTEREST:</b><br><br>
   <a href="#"><img src="https://i.ibb.co/F0txkg5/html-5.png" width="50" height="50"></a> 
   <a href="#"><img src="https://i.ibb.co/TYnGWXs/css.png" width="50" height="50"></a>
   <a href="#"><img src="https://i.ibb.co/Z878Y4M/mysql.png" width="50" height="50"></a>
