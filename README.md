@@ -6,20 +6,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyla00&layout=compact&bg_color=1c201c&title_color=80ffd4&text_color=d0e5d7&card_width=445&card_height=30)
 
 
+
+
+
 <p align="center">
-  <b>Used Technologies:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <h2>Used Technologies:</h2><br>
+  <img src="" width="64" height="64">
+  <img src="" width="64" height="64">
+  <img src="" width="64" height="64">
+  <img src="" width="64" height="64">
+  <img src="" width="64" height="64">
 </p>
-
-
-
-
-
-
-
-
-
