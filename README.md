@@ -1,9 +1,4 @@
-<p align="center">
-  <b>CONTACT</b><br><br>
-  <a href="https://www.linkedin.com/in/ismail-khayam/"><img src="https://i.ibb.co/JFLKwWC/linkedin.png" width="50" height="50"></a>&nbsp&nbsp&nbsp&nbsp
-  <a href="https://justpaste.it/3qdjo"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>&nbsp&nbsp&nbsp&nbsp
-  <a href="https://justpaste.it/72myx"><img src="https://i.ibb.co/0Y5brrk/mail.png" width="50" height="50"></a>
-</p>
+
 
 <p align="center" width="100%">
   <img src="https://media.giphy.com/media/Y3RpfxT7T7QU8/giphy.gif" />
