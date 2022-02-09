@@ -12,17 +12,18 @@
 
 <p align="center">
   <b>TECHNOLOGIES OF INTEREST</b><br><br>
-  <a href="#"><img src="https://i.ibb.co/F0txkg5/html-5.png" width="50" height="50"></a> 
-  <a href="#"><img src="https://i.ibb.co/TYnGWXs/css.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/Z878Y4M/mysql.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/KsJjW2c/php.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/XFS62M0/javascript.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/r0GxY4v/react.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/pr6cZJQ/nodejs.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/7RMbc85/python.png" width="50" height="50"></a> 
-  <a href="#"><img src="https://i.ibb.co/vkp93vJ/code.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/5rJpNPm/blockchain.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/RBrMMp0/bitcoin.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/pzvDXtj/monero.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/93QMJw3/discord.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/wKjZCJ3/html.png" width="50" height="50"></a> 
+  <a href="#"><img src="https://i.ibb.co/S7Rwh5R/css.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/BPLJcBN/js.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/LNNMwWJ/584830f5cef1014c0b5e4aa1.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/yWqbqX5/vue.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/3TP7p5w/node.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/KXCzx85/express.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/m46n8Vg/mongo.png" width="50" height="50"></a> 
+  <a href="#"><img src="https://i.ibb.co/9tdydYF/py.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/fqtk0Bk/django.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/gghMrjC/sql.png" width="50" height="50"></a>
+  <a href="#"><img src="https://www.rust-lang.org/logos/rust-logo-512x512-blk.png" width="50" height="50"></a>
+  <a href="#"><img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" width="50" height="50"></a>
+  <a href="#"><img src="https://i.ibb.co/8sS8pQm/584830fecef1014c0b5e4aa2.png" width="50" height="50"></a>
 </p>
