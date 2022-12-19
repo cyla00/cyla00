@@ -1,25 +1,27 @@
+# 💫 About Me:
+Working on B2B projects 
 
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyla00&count_private=true&show_icons=true&&bg_color=000000&title_color=80ffd4&text_color=d0e5d7&icon_color=99ffcc" />
-</p>
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyla00&layout=compact&bg_color=000000&title_color=80ffd4&text_color=d0e5d7&card_width=445" />
-</p>
 
-<p align="center">
-  <b>TECHNOLOGIES OF INTEREST</b><br><br>
-  <a href="#"><img src="https://i.ibb.co/wKjZCJ3/html.png" width="50" height="50"></a> 
-  <a href="#"><img src="https://i.ibb.co/S7Rwh5R/css.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/BPLJcBN/js.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/LNNMwWJ/584830f5cef1014c0b5e4aa1.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/yWqbqX5/vue.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/3TP7p5w/node.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/KXCzx85/express.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/m46n8Vg/mongo.png" width="50" height="50"></a> 
-  <a href="#"><img src="https://i.ibb.co/9tdydYF/py.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/fqtk0Bk/django.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/gghMrjC/sql.png" width="50" height="50"></a>
-  <a href="#"><img src="https://www.rust-lang.org/logos/rust-logo-512x512-blk.png" width="50" height="50"></a>
-  <a href="#"><img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" width="50" height="50"></a>
-  <a href="#"><img src="https://i.ibb.co/8sS8pQm/584830fecef1014c0b5e4aa2.png" width="50" height="50"></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ikwebdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ikwebdeveloper) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cyla00&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cyla00&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyla00&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cyla00&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=cyla00&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
