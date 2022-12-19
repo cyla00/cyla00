@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on B2B projects 
+Developing web app solutions for B2B projects 🤺
 
 
 ## 🌐 Socials:
@@ -13,13 +13,7 @@ Working on B2B projects
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyla00&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cyla00&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://github-profile-trophy.vercel.app/?username=cyla00&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cyla00&icon=6&color=0)](https://visitcount.itsvg.in)
