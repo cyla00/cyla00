@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developing web app solutions for B2B projects 🤺
+Developing web app solutions for B2B projects and SaaS 🤺
 
 
 ## 🌐 Socials:
