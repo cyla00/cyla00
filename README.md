@@ -1,7 +1,3 @@
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyla00&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyla00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -43,12 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
